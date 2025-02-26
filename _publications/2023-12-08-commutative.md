@@ -9,6 +9,8 @@ venue: 'IACR Transactions on Symmetric Cryptology'
 slidesurl: 'https://tosc.iacr.org/index.php/ToSC/article/view/11290/11534'
 paperurl: 'https://doi.org/10.46586/tosc.v2023.i4.299-329'
 citation: 'Baudrin, J., Felke, P., Leander, G., Neumann, P., Perrin, L., & Stennes, L. (2023). Commutative Cryptanalysis Made Practical. IACR Transactions on Symmetric Cryptology, 2023(4), 299-329. https://doi.org/10.46586/tosc.v2023.i4.299-329'
+coauthors: 'Jules Baudrin, Patrick Felke, Gregor Leander, Léo Perrin, Lukas Stennes'
+eprinturl: 
 ---
 
 About 20 years ago, Wagner showed that most of the (then) known techniques used in the cryptanalysis of block ciphers were particular cases of what he called commutative diagram cryptanalysis. However, to the best of our knowledge, this general framework has not yet been leveraged to find concrete attacks.
