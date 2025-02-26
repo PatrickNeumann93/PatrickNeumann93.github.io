@@ -9,4 +9,4 @@ modified: 2025-02-26
 
 ## Privacy Policy
 
-As this is a GitHub page, the data that is collected when visiting this site is explained here https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages#data-collection. Further details on the privacy policy of GitHub can be found here https://docs.github.com/en/site-policy/privacy-policies.
+As this is a GitHub page, the data that is collected when visiting this site is explained [here](https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages#data-collection). Further details on how this data is handled can be found in the [privacy policy of GitHub](https://docs.github.com/en/site-policy/privacy-policies).
