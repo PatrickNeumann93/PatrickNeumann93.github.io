@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Website of Patrick Neumann"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Patrick Neumann"
 description              : &description ""
@@ -26,7 +26,7 @@ author:
   name             : "Patrick Neumann"
   pronouns         : # example: "she/her"  
   bio              : "Researcher in Symmetric Cryptography"
-  location         : "B317, 48 Rue Barrault, 75013 Paris"
+  location         : "48 Rue Barrault, 75013 Paris, France"
   employer         : "Inria"
   uri              : # URL
   email            : "patrick.neumann@inria.fr" 
