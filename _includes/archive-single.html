@@ -52,25 +52,25 @@
     <p class="archive__item-excerpt" itemprop="description"><p>{{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}<strong><a href="{{ base_path }}{{ post.url }}" rel="permalink"> Read more</a></strong></p></p>
     {% endif %}
     
-    {% post.coauthors %}
+    {% if post.coauthors %}
       <p>Joint work with <i>{{ post.coauthors }}</i></p>
     {% endif %}
     
-    {% post.paperurl or post.slidesurl or post.erinturl %}
+    {% if post.paperurl or post.slidesurl or post.erinturl %}
       <p>
-      {% post.paperurl %}
+      {% if post.paperurl %}
         <a href="{{ post.paperurl }}">Paper</a>
-        {% post.slidesurl or post.erinturl %}
+        {% if post.slidesurl or post.erinturl %}
           |
         {% endif %}
       {% endif %}
-      {% post.erinturl %}
+      {% if post.erinturl %}
         <a href="{{ post.erinturl }}">ePrint</a>
-        {% post.slidesurl %}
+        {% if post.slidesurl %}
           |
         {% endif %}
       {% endif %}
-      {% post.slidesurl %}
+      {% if post.slidesurl %}
         <a href="{{ post.slidesurl }}">Slides</a>
       {% endif %}
       </p>
