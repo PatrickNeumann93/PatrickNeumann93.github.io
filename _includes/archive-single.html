@@ -56,16 +56,16 @@
       <p>Joint work with <i>{{ post.coauthors }}</i></p>
     {% endif %}
     
-    {% if post.paperurl or post.slidesurl or post.erinturl %}
+    {% if post.paperurl or post.slidesurl or post.eprinturl %}
       <p>
       {% if post.paperurl %}
         <a href="{{ post.paperurl }}">Paper</a>
-        {% if post.slidesurl or post.erinturl %}
+        {% if post.slidesurl or post.eprinturl %}
           |
         {% endif %}
       {% endif %}
-      {% if post.erinturl %}
-        <a href="{{ post.erinturl }}">ePrint</a>
+      {% if post.eprinturl %}
+        <a href="{{ post.eprinturl }}">ePrint</a>
         {% if post.slidesurl %}
           |
         {% endif %}
