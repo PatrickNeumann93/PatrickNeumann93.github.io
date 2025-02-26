@@ -47,26 +47,26 @@ layout: default
       <section class="page__content" itemprop="text">
         {{ content }}
         
-        {% if post.coauthors %}
-          <p style="font-size: smaller">Joint work with <i>{{ post.coauthors }}</i></p>
+        {% if page.coauthors %}
+          <p style="font-size: smaller">Joint work with <i>{{ page.coauthors }}</i></p>
         {% endif %}
         
-        {% if post.paperurl or post.slidesurl or post.eprinturl %}
+        {% if page.paperurl or page.slidesurl or page.eprinturl %}
           <p style="font-size: smaller">
-          {% if post.paperurl %}
-            <a href="{{ post.paperurl }}">Paper</a>
-            {% if post.slidesurl or post.eprinturl %}
+          {% if page.paperurl %}
+            <a href="{{ page.paperurl }}">Paper</a>
+            {% if page.slidesurl or page.eprinturl %}
               |
             {% endif %}
           {% endif %}
-          {% if post.eprinturl %}
-            <a href="{{ post.eprinturl }}">ePrint</a>
-            {% if post.slidesurl %}
+          {% if page.eprinturl %}
+            <a href="{{ page.eprinturl }}">ePrint</a>
+            {% if page.slidesurl %}
               |
             {% endif %}
           {% endif %}
-          {% if post.slidesurl %}
-            <a href="{{ post.slidesurl }}">Slides</a>
+          {% if page.slidesurl %}
+            <a href="{{ page.slidesurl }}">Slides</a>
           {% endif %}
           </p>
         {% endif %}
