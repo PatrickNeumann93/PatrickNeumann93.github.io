@@ -48,11 +48,11 @@ layout: default
         {{ content }}
         
         {% if page.coauthors %}
-          <p style="font-size: smaller">Joint work with <i>{{ page.coauthors }}</i></p>
+          <p>Joint work with <i>{{ page.coauthors }}</i></p>
         {% endif %}
         
         {% if page.paperurl or page.slidesurl or page.eprinturl %}
-          <p style="font-size: smaller">
+          <p>
           {% if page.paperurl %}
             <a href="{{ page.paperurl }}">Paper</a>
             {% if page.slidesurl or page.eprinturl %}
