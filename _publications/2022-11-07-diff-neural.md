@@ -7,10 +7,10 @@ excerpt:
 date: 2022-11-07
 venue: 'Cryptology ePrint Archive'
 slidesurl: 
-paperurl: 'https://eprint.iacr.org/2022/1521'
+paperurl: 
 citation: 
 coauthors: 'Aron Gohr, Gregor Leander'
-eprinturl: 
+eprinturl: 'https://eprint.iacr.org/2022/1521'
 specialtype: 'Pre-Print'
 ---
 
