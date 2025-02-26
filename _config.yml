@@ -40,6 +40,7 @@ author:
   pubmed           : 
   researchgate     : # URL
   scopus           : # URL
+  dblp             : "https://dblp.org/pid/32/2220-4.html"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
