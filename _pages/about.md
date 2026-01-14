@@ -12,16 +12,16 @@ Hi, I am Patrick Neumann, a researcher in the area of symmetric cryptography. I 
 Publications
 ------
   <ul>{% for post in site.publications reversed %}
-    {% include archive-single.html %}
+    {% include archive-single-home.html %}
   {% endfor %}</ul>
   
-Talks
+Talks & Presentations
 ------
   <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk.html  %}
+    {% include archive-single-talk-home.html  %}
   {% endfor %}</ul>
 
-Work History
+Employment
 ------
 * 2025 - Now: Inria, Paris, France
 * 2020 - 2025: Ruhr University Bochum, Bochum, Germany
