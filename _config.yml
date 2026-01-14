@@ -26,7 +26,7 @@ author:
   name             : "Patrick Neumann"
   pronouns         : # example: "she/her"  
   bio              : "Researcher in Symmetric Cryptography"
-  location         : "48 Rue Barrault, 75013 Paris, France"
+  location         : "48 Rue Barrault, Paris, France"
   employer         : "Inria"
   uri              : # URL
   email            : "patrick.neumann@inria.fr" 
