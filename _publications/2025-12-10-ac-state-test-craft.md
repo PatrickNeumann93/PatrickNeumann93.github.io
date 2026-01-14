@@ -6,6 +6,7 @@ permalink: /publication/2025-12-10-ac-state-test-craft
 excerpt: 
 date: 2025-12-10
 venue: 'ASIACRYPT'
+slidesurl: '/files/slides/2025-12-10-ac-state-test-craft.pdf'
 paperurl: 'https://doi.org/10.1007/978-981-95-5018-0_9'
 citation: 'M’Foukh, D., Naya-Plasencia, M., Neumann, P. (2026). The State-Test Technique on Differential Attacks: a 26-Round Attack on Craft and Other Applications. In: Hanaoka, G., Yang, BY. (eds) Advances in Cryptology – ASIACRYPT 2025. ASIACRYPT 2025. Lecture Notes in Computer Science, vol 16245. Springer, Singapore. https://doi.org/10.1007/978-981-95-5018-0_9'
 coauthors: ' Dounia M’Foukh, María Naya-Plasencia'
