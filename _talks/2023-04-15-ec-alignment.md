@@ -8,4 +8,4 @@ date: 2023-04-15
 location: "Lyon, France"
 ---
 
-This talk was to present the paper [Pitfalls and Shortcomings for Decompositions and Alignment](/publication/2023-08-09-c-perfect-two-rounds) at EUROCRYPT 2023.
+Presentation of the paper [Pitfalls and Shortcomings for Decompositions and Alignment](/publication/2023-08-09-c-perfect-two-rounds) at EUROCRYPT 2023.
