@@ -2,9 +2,9 @@
 title: "Pitfalls and Shortcomings for Decompositions and Alignment"
 collection: publications
 category: conferences
-permalink: /publication/2023-04-15-ec-alignment
+permalink: /publication/2023-04-25-ec-alignment
 excerpt: 
-date: 2023-04-15
+date: 2023-04-25
 venue: 'EUROCRYPT'
 slidesurl: 'https://iacr.org/submit/files/slides/2023/eurocrypt/eurocrypt2023/84/slides.pdf'
 paperurl: 'https://doi.org/10.1007/978-3-031-30634-1_11'
