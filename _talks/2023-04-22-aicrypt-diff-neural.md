@@ -3,7 +3,7 @@ title: "An Assessment of Differential-Neural Distinguishers"
 collection: talks
 type: "Talk"
 permalink: /talks/2023-04-22-aicrypt-diff-neural
-venue: "ENS Lyon"
+venue: "AICrypt 2023"
 date: 2023-04-22
 location: "Lyon, France"
 ---

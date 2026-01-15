@@ -3,7 +3,7 @@ title: "The Uniqueness of (SPN-)Round Function Decompositions"
 collection: talks
 type: "Talk"
 permalink: /talks/2022-09-28-frisiacrypt-alignment
-venue: "WestCord ApartHotel Boschrijck"
+venue: "FrisiaCrypt 2022"
 date: 2022-09-28
 location: "Terschelling, The Netherlands"
 ---

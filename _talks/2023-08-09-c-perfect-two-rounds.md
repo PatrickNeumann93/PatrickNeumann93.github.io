@@ -3,7 +3,7 @@ title: "On Perfect Linear Approximations and Differentials over Two-Round SPNs"
 collection: talks
 type: "Talk"
 permalink: /talks/2023-08-09-c-perfect-two-rounds
-venue: "UC Santa Barbara"
+venue: "CRYPTO 2023"
 date: 2023-08-09
 location: "Santa Barbara, CA, USA"
 ---

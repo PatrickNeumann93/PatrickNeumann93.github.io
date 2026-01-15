@@ -3,7 +3,7 @@ title: "The State-Test Technique on Differential Attacks: a 26-Round Attack on C
 collection: talks
 type: "Talk"
 permalink: /talks/2025-12-10-ac-state-test-craft
-venue: " Pullman Melbourne on the Park"
+venue: "ASIACRYPT 2025"
 date: 2025-12-10
 location: "Melbourne, Australia"
 ---
